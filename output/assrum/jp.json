@@ -1,0 +1,1504 @@
+{
+  "ranked_records": [
+    {
+      "rank": 1,
+      "user": {
+        "code": "940813830",
+        "nickname": "Jiu",
+        "character_id": 14523,
+        "level": 2314,
+        "bounty": "13億4070万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 88918194,
+        "level": 10,
+        "win_count": 4347
+      }
+    },
+    {
+      "rank": 2,
+      "user": {
+        "code": "083385862",
+        "nickname": "淚流某個海༄༅",
+        "character_id": 14523,
+        "level": 2768,
+        "bounty": "12億5555万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 87461430,
+        "level": 10,
+        "win_count": 4123
+      }
+    },
+    {
+      "rank": 3,
+      "user": {
+        "code": "931444859",
+        "nickname": "༒mR.Karꪮ༒",
+        "character_id": 10153,
+        "level": 1314,
+        "bounty": "11億2835万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 86727037,
+        "level": 10,
+        "win_count": 852
+      }
+    },
+    {
+      "rank": 4,
+      "user": {
+        "code": "934373976",
+        "nickname": "超D.MAX★★★☆",
+        "character_id": 13701,
+        "level": 4198,
+        "bounty": "12億8075万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 85324507,
+        "level": 10,
+        "win_count": 1017
+      }
+    },
+    {
+      "rank": 5,
+      "user": {
+        "code": "352165481",
+        "nickname": "HAYA ࿐⋆͛☪︎",
+        "character_id": 14512,
+        "level": 1652,
+        "bounty": "13億4395万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 85110555,
+        "level": 10,
+        "win_count": 456
+      }
+    },
+    {
+      "rank": 6,
+      "user": {
+        "code": "813217579",
+        "nickname": "　童　虎　",
+        "character_id": 14512,
+        "level": 1596,
+        "bounty": "11億2120万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 83220182,
+        "level": 10,
+        "win_count": 2587
+      }
+    },
+    {
+      "rank": 7,
+      "user": {
+        "code": "355753284",
+        "nickname": "ハートの海賊団♥",
+        "character_id": 14512,
+        "level": 1329,
+        "bounty": "11億5545万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 82306004,
+        "level": 10,
+        "win_count": 241
+      }
+    },
+    {
+      "rank": 8,
+      "user": {
+        "code": "967948839",
+        "nickname": "たっつん一味",
+        "character_id": 14512,
+        "level": 1634,
+        "bounty": "12億2090万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 82111105,
+        "level": 10,
+        "win_count": 612
+      }
+    },
+    {
+      "rank": 9,
+      "user": {
+        "code": "880347054",
+        "nickname": "冥王俺トミ࿐⋆͛☪︎",
+        "character_id": 14512,
+        "level": 1502,
+        "bounty": "11億4175万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 81995958,
+        "level": 10,
+        "win_count": 726
+      }
+    },
+    {
+      "rank": 10,
+      "user": {
+        "code": "637408869",
+        "nickname": "エルトール࿐⋆͛☪︎",
+        "character_id": 14512,
+        "level": 1675,
+        "bounty": "13億1210万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 81669635,
+        "level": 10,
+        "win_count": 531
+      }
+    },
+    {
+      "rank": 11,
+      "user": {
+        "code": "366142929",
+        "nickname": "✻チョコボ✻",
+        "character_id": 13472,
+        "level": 1739,
+        "bounty": "12億2320万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 81446465,
+        "level": 10,
+        "win_count": 547
+      }
+    },
+    {
+      "rank": 12,
+      "user": {
+        "code": "287374915",
+        "nickname": "紅葉☘️",
+        "character_id": 14512,
+        "level": 1137,
+        "bounty": "9億1362万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 80156014,
+        "level": 10,
+        "win_count": 206
+      }
+    },
+    {
+      "rank": 13,
+      "user": {
+        "code": "417830133",
+        "nickname": "ༀ ŚØŁ ༀ",
+        "character_id": 14523,
+        "level": 1182,
+        "bounty": "10億5773万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 80104060,
+        "level": 10,
+        "win_count": 274
+      }
+    },
+    {
+      "rank": 14,
+      "user": {
+        "code": "803471737",
+        "nickname": "手不再抖",
+        "character_id": 14523,
+        "level": 1097,
+        "bounty": "10億6540万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 79327316,
+        "level": 10,
+        "win_count": 310
+      }
+    },
+    {
+      "rank": 15,
+      "user": {
+        "code": "154067333",
+        "nickname": "はらす࿐⋆͛☪︎",
+        "character_id": 13701,
+        "level": 1466,
+        "bounty": "10億2885万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 77573204,
+        "level": 10,
+        "win_count": 515
+      }
+    },
+    {
+      "rank": 16,
+      "user": {
+        "code": "235218413",
+        "nickname": "句潤❁",
+        "character_id": 13472,
+        "level": 2592,
+        "bounty": "13億2265万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 77443852,
+        "level": 10,
+        "win_count": 146
+      }
+    },
+    {
+      "rank": 17,
+      "user": {
+        "code": "392169487",
+        "nickname": "Romi",
+        "character_id": 14122,
+        "level": 1502,
+        "bounty": "9億9885万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 76683825,
+        "level": 10,
+        "win_count": 44
+      }
+    },
+    {
+      "rank": 18,
+      "user": {
+        "code": "709116374",
+        "nickname": "うふ",
+        "character_id": 14512,
+        "level": 2211,
+        "bounty": "13億1040万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 76644489,
+        "level": 10,
+        "win_count": 486
+      }
+    },
+    {
+      "rank": 19,
+      "user": {
+        "code": "945492431",
+        "nickname": "やのぴー",
+        "character_id": 11212,
+        "level": 1174,
+        "bounty": "6億9515万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 76279866,
+        "level": 10,
+        "win_count": 412
+      }
+    },
+    {
+      "rank": 20,
+      "user": {
+        "code": "438829827",
+        "nickname": "ルパン三歳",
+        "character_id": 14513,
+        "level": 1226,
+        "bounty": "10億2445万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 75364486,
+        "level": 10,
+        "win_count": 332
+      }
+    },
+    {
+      "rank": 21,
+      "user": {
+        "code": "150228347",
+        "nickname": "灿若星河",
+        "character_id": 14523,
+        "level": 1881,
+        "bounty": "11億9615万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 75233082,
+        "level": 10,
+        "win_count": 75
+      }
+    },
+    {
+      "rank": 22,
+      "user": {
+        "code": "646380420",
+        "nickname": "卍 Kᗩᘔᑌ 卍",
+        "character_id": 14512,
+        "level": 1390,
+        "bounty": "12億7060万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74903310,
+        "level": 10,
+        "win_count": 128
+      }
+    },
+    {
+      "rank": 23,
+      "user": {
+        "code": "533289340",
+        "nickname": "✰BON狂A✰",
+        "character_id": 10153,
+        "level": 1242,
+        "bounty": "11億3272万5000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74705887,
+        "level": 10,
+        "win_count": 454
+      }
+    },
+    {
+      "rank": 24,
+      "user": {
+        "code": "040333863",
+        "nickname": "のか࿐⋆͛☪︎",
+        "character_id": 14370,
+        "level": 1465,
+        "bounty": "9億5005万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74684104,
+        "level": 10,
+        "win_count": 32
+      }
+    },
+    {
+      "rank": 25,
+      "user": {
+        "code": "236488965",
+        "nickname": "麺",
+        "character_id": 12969,
+        "level": 938,
+        "bounty": "7億3480万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74662734,
+        "level": 10,
+        "win_count": 215
+      }
+    },
+    {
+      "rank": 26,
+      "user": {
+        "code": "751402364",
+        "nickname": "YZERR",
+        "character_id": 14512,
+        "level": 1406,
+        "bounty": "10億9075万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74571582,
+        "level": 10,
+        "win_count": 191
+      }
+    },
+    {
+      "rank": 27,
+      "user": {
+        "code": "770051153",
+        "nickname": "❀ぼっちゃ❀¨̮ ",
+        "character_id": 12760,
+        "level": 1529,
+        "bounty": "11億5370万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74265039,
+        "level": 10,
+        "win_count": 779
+      }
+    },
+    {
+      "rank": 28,
+      "user": {
+        "code": "963520934",
+        "nickname": "たかぴ",
+        "character_id": 13701,
+        "level": 1745,
+        "bounty": "12億9010万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74244650,
+        "level": 10,
+        "win_count": 180
+      }
+    },
+    {
+      "rank": 29,
+      "user": {
+        "code": "167807763",
+        "nickname": "ⱮᎥռƙǫღ✘‎",
+        "character_id": 14513,
+        "level": 1382,
+        "bounty": "10億9355万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74190026,
+        "level": 10,
+        "win_count": 210
+      }
+    },
+    {
+      "rank": 30,
+      "user": {
+        "code": "935155000",
+        "nickname": "ざわざわの一味",
+        "character_id": 14202,
+        "level": 867,
+        "bounty": "7億9582万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 74004926,
+        "level": 10,
+        "win_count": 269
+      }
+    },
+    {
+      "rank": 31,
+      "user": {
+        "code": "355332451",
+        "nickname": "サンケイ",
+        "character_id": 14523,
+        "level": 1896,
+        "bounty": "9億3419万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 73915041,
+        "level": 10,
+        "win_count": 164
+      }
+    },
+    {
+      "rank": 32,
+      "user": {
+        "code": "234172423",
+        "nickname": "ଘS♚SUZUKAଓ",
+        "character_id": 14513,
+        "level": 1531,
+        "bounty": "11億5015万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 73310347,
+        "level": 10,
+        "win_count": 78
+      }
+    },
+    {
+      "rank": 33,
+      "user": {
+        "code": "498148439",
+        "nickname": "ЖくんなおЖ",
+        "character_id": 14513,
+        "level": 1047,
+        "bounty": "7億5509万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 73281427,
+        "level": 10,
+        "win_count": 331
+      }
+    },
+    {
+      "rank": 34,
+      "user": {
+        "code": "048915932",
+        "nickname": "ステ",
+        "character_id": 14523,
+        "level": 1307,
+        "bounty": "10億1295万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 73239344,
+        "level": 10,
+        "win_count": 110
+      }
+    },
+    {
+      "rank": 35,
+      "user": {
+        "code": "776832627",
+        "nickname": "[SF] ᴶᴼᵞ",
+        "character_id": 14523,
+        "level": 1506,
+        "bounty": "11億4875万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72851619,
+        "level": 10,
+        "win_count": 239
+      }
+    },
+    {
+      "rank": 36,
+      "user": {
+        "code": "768442334",
+        "nickname": "リアルカ　",
+        "character_id": 14512,
+        "level": 1357,
+        "bounty": "12億4195万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72688403,
+        "level": 10,
+        "win_count": 96
+      }
+    },
+    {
+      "rank": 37,
+      "user": {
+        "code": "723791731",
+        "nickname": "Øýãji ",
+        "character_id": 12969,
+        "level": 1113,
+        "bounty": "9億8210万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72595249,
+        "level": 10,
+        "win_count": 196
+      }
+    },
+    {
+      "rank": 38,
+      "user": {
+        "code": "725009315",
+        "nickname": "⚔️赤い彗星⚔️",
+        "character_id": 14512,
+        "level": 1852,
+        "bounty": "12億7795万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72516803,
+        "level": 10,
+        "win_count": 72
+      }
+    },
+    {
+      "rank": 39,
+      "user": {
+        "code": "124033905",
+        "nickname": "☠️ hide ❀",
+        "character_id": 14512,
+        "level": 1609,
+        "bounty": "11億6415万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72391232,
+        "level": 10,
+        "win_count": 75
+      }
+    },
+    {
+      "rank": 40,
+      "user": {
+        "code": "800602938",
+        "nickname": "⌘俺の一味⌘",
+        "character_id": 13472,
+        "level": 1129,
+        "bounty": "10億2082万5000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72177821,
+        "level": 10,
+        "win_count": 129
+      }
+    },
+    {
+      "rank": 41,
+      "user": {
+        "code": "364361550",
+        "nickname": "なかむー",
+        "character_id": 10153,
+        "level": 1517,
+        "bounty": "11億0065万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72154018,
+        "level": 10,
+        "win_count": 181
+      }
+    },
+    {
+      "rank": 42,
+      "user": {
+        "code": "340675243",
+        "nickname": "ごり☆ゴリオ",
+        "character_id": 14512,
+        "level": 1426,
+        "bounty": "11億1615万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72134713,
+        "level": 10,
+        "win_count": 33
+      }
+    },
+    {
+      "rank": 43,
+      "user": {
+        "code": "091962343",
+        "nickname": "༺レグルス༻",
+        "character_id": 14512,
+        "level": 1424,
+        "bounty": "9億9185万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 72033983,
+        "level": 10,
+        "win_count": 142
+      }
+    },
+    {
+      "rank": 44,
+      "user": {
+        "code": "481316959",
+        "nickname": "10969er",
+        "character_id": 14513,
+        "level": 1853,
+        "bounty": "6億7102万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 71560549,
+        "level": 10,
+        "win_count": 625
+      }
+    },
+    {
+      "rank": 45,
+      "user": {
+        "code": "624815734",
+        "nickname": "ＷＮＭ",
+        "character_id": 14512,
+        "level": 1365,
+        "bounty": "10億6375万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 71533257,
+        "level": 10,
+        "win_count": 39
+      }
+    },
+    {
+      "rank": 46,
+      "user": {
+        "code": "984331974",
+        "nickname": "江戸一派ஂ",
+        "character_id": 14512,
+        "level": 1402,
+        "bounty": "10億7215万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 71121119,
+        "level": 10,
+        "win_count": 26
+      }
+    },
+    {
+      "rank": 47,
+      "user": {
+        "code": "992636085",
+        "nickname": "SinoGames",
+        "character_id": 13472,
+        "level": 1176,
+        "bounty": "10億2680万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 71109267,
+        "level": 10,
+        "win_count": 132
+      }
+    },
+    {
+      "rank": 48,
+      "user": {
+        "code": "353608494",
+        "nickname": "えりなこ",
+        "character_id": 14512,
+        "level": 1893,
+        "bounty": "11億3035万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70734930,
+        "level": 10,
+        "win_count": 66
+      }
+    },
+    {
+      "rank": 49,
+      "user": {
+        "code": "381845785",
+        "nickname": "ナル氏",
+        "character_id": 13965,
+        "level": 1186,
+        "bounty": "9億6645万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70715186,
+        "level": 10,
+        "win_count": 341
+      }
+    },
+    {
+      "rank": 50,
+      "user": {
+        "code": "692118234",
+        "nickname": "ى SOTA ‏ى",
+        "character_id": 13472,
+        "level": 1359,
+        "bounty": "12億0385万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70694853,
+        "level": 10,
+        "win_count": 33
+      }
+    },
+    {
+      "rank": 51,
+      "user": {
+        "code": "654318403",
+        "nickname": "Nii",
+        "character_id": 14370,
+        "level": 1592,
+        "bounty": "7億4520万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70690026,
+        "level": 10,
+        "win_count": 269
+      }
+    },
+    {
+      "rank": 52,
+      "user": {
+        "code": "788335257",
+        "nickname": "ぽるぽる",
+        "character_id": 14512,
+        "level": 2046,
+        "bounty": "12億2440万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70681240,
+        "level": 10,
+        "win_count": 72
+      }
+    },
+    {
+      "rank": 53,
+      "user": {
+        "code": "612946336",
+        "nickname": "ꕥ⍲ʟɪᴄᴇꕥ ",
+        "character_id": 13472,
+        "level": 1578,
+        "bounty": "12億1045万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70238072,
+        "level": 10,
+        "win_count": 278
+      }
+    },
+    {
+      "rank": 54,
+      "user": {
+        "code": "432016309",
+        "nickname": "ニセ麦の一味",
+        "character_id": 14512,
+        "level": 1527,
+        "bounty": "13億0037万5000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70158248,
+        "level": 10,
+        "win_count": 92
+      }
+    },
+    {
+      "rank": 55,
+      "user": {
+        "code": "509285039",
+        "nickname": "ｼｬﾝｸ鈴木",
+        "character_id": 12760,
+        "level": 1323,
+        "bounty": "11億9455万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70110816,
+        "level": 10,
+        "win_count": 235
+      }
+    },
+    {
+      "rank": 56,
+      "user": {
+        "code": "477055035",
+        "nickname": "ゆう༻Ð༺",
+        "character_id": 13414,
+        "level": 1145,
+        "bounty": "7億5738万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 70053796,
+        "level": 10,
+        "win_count": 158
+      }
+    },
+    {
+      "rank": 57,
+      "user": {
+        "code": "137490538",
+        "nickname": "超新星ニノ",
+        "character_id": 14370,
+        "level": 1605,
+        "bounty": "12億8130万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69893272,
+        "level": 10,
+        "win_count": 288
+      }
+    },
+    {
+      "rank": 58,
+      "user": {
+        "code": "375730934",
+        "nickname": "コーギー海賊団",
+        "character_id": 13465,
+        "level": 1644,
+        "bounty": "10億9215万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69632905,
+        "level": 10,
+        "win_count": 123
+      }
+    },
+    {
+      "rank": 59,
+      "user": {
+        "code": "344173937",
+        "nickname": "아니스",
+        "character_id": 14512,
+        "level": 1072,
+        "bounty": "10億1060万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69620937,
+        "level": 10,
+        "win_count": 71
+      }
+    },
+    {
+      "rank": 60,
+      "user": {
+        "code": "933756675",
+        "nickname": "AS",
+        "character_id": 14513,
+        "level": 1303,
+        "bounty": "12億0380万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69601602,
+        "level": 10,
+        "win_count": 291
+      }
+    },
+    {
+      "rank": 61,
+      "user": {
+        "code": "349638895",
+        "nickname": "うぉんぱーぱ",
+        "character_id": 14512,
+        "level": 1584,
+        "bounty": "12億9570万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69547699,
+        "level": 10,
+        "win_count": 195
+      }
+    },
+    {
+      "rank": 62,
+      "user": {
+        "code": "396672592",
+        "nickname": "サッカー小僧",
+        "character_id": 14523,
+        "level": 1129,
+        "bounty": "10億6435万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69505272,
+        "level": 10,
+        "win_count": 77
+      }
+    },
+    {
+      "rank": 63,
+      "user": {
+        "code": "953415439",
+        "nickname": "花鳥༻Ð༺",
+        "character_id": 14513,
+        "level": 1563,
+        "bounty": "12億3195万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69487124,
+        "level": 10,
+        "win_count": 376
+      }
+    },
+    {
+      "rank": 64,
+      "user": {
+        "code": "122634243",
+        "nickname": "viviennest",
+        "character_id": 13472,
+        "level": 856,
+        "bounty": "8億3177万5000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69125482,
+        "level": 10,
+        "win_count": 140
+      }
+    },
+    {
+      "rank": 65,
+      "user": {
+        "code": "362869242",
+        "nickname": "むたむた",
+        "character_id": 13602,
+        "level": 728,
+        "bounty": "8億9170万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 69022585,
+        "level": 10,
+        "win_count": 177
+      }
+    },
+    {
+      "rank": 66,
+      "user": {
+        "code": "774338187",
+        "nickname": "十六夜月×ちはやふる",
+        "character_id": 10153,
+        "level": 1190,
+        "bounty": "11億0900万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 68612718,
+        "level": 10,
+        "win_count": 36
+      }
+    },
+    {
+      "rank": 67,
+      "user": {
+        "code": "921667328",
+        "nickname": "ハルヒの一味",
+        "character_id": 13472,
+        "level": 780,
+        "bounty": "8億6083万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 68416315,
+        "level": 10,
+        "win_count": 117
+      }
+    },
+    {
+      "rank": 68,
+      "user": {
+        "code": "484815235",
+        "nickname": "ゆきのっち☺︎︎",
+        "character_id": 12760,
+        "level": 730,
+        "bounty": "9億0355万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 68372528,
+        "level": 10,
+        "win_count": 33
+      }
+    },
+    {
+      "rank": 69,
+      "user": {
+        "code": "344464391",
+        "nickname": "野良猫(=ﾟωﾟ=)",
+        "character_id": 12760,
+        "level": 1402,
+        "bounty": "11億6860万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 68303402,
+        "level": 10,
+        "win_count": 36
+      }
+    },
+    {
+      "rank": 70,
+      "user": {
+        "code": "308318406",
+        "nickname": "ここみの一味",
+        "character_id": 14513,
+        "level": 1424,
+        "bounty": "11億4965万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 68266956,
+        "level": 10,
+        "win_count": 41
+      }
+    },
+    {
+      "rank": 71,
+      "user": {
+        "code": "099838551",
+        "nickname": "太陽神ニカ",
+        "character_id": 14452,
+        "level": 768,
+        "bounty": "6億2701万5000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 68216994,
+        "level": 10,
+        "win_count": 34
+      }
+    },
+    {
+      "rank": 72,
+      "user": {
+        "code": "762340713",
+        "nickname": "ペロペ→ロ༻Ð༺",
+        "character_id": 14523,
+        "level": 931,
+        "bounty": "6億0188万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 68121307,
+        "level": 10,
+        "win_count": 659
+      }
+    },
+    {
+      "rank": 73,
+      "user": {
+        "code": "722393318",
+        "nickname": "♡MeRu♡",
+        "character_id": 13701,
+        "level": 1235,
+        "bounty": "6億2155万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 68082416,
+        "level": 10,
+        "win_count": 161
+      }
+    },
+    {
+      "rank": 74,
+      "user": {
+        "code": "982340058",
+        "nickname": "Huakai",
+        "character_id": 13701,
+        "level": 1613,
+        "bounty": "10億6780万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 67803696,
+        "level": 10,
+        "win_count": 102
+      }
+    },
+    {
+      "rank": 75,
+      "user": {
+        "code": "472364956",
+        "nickname": "wad•D•deck",
+        "character_id": 14523,
+        "level": 807,
+        "bounty": "3億9939万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 67666516,
+        "level": 10,
+        "win_count": 61
+      }
+    },
+    {
+      "rank": 76,
+      "user": {
+        "code": "515486434",
+        "nickname": "デカ同盟✖️にっち",
+        "character_id": 14513,
+        "level": 1434,
+        "bounty": "12億2385万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 67596739,
+        "level": 10,
+        "win_count": 34
+      }
+    },
+    {
+      "rank": 77,
+      "user": {
+        "code": "023339327",
+        "nickname": "ひよ࿐⋆͛☪︎",
+        "character_id": 14523,
+        "level": 1056,
+        "bounty": "3億2345万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 67566861,
+        "level": 10,
+        "win_count": 128
+      }
+    },
+    {
+      "rank": 78,
+      "user": {
+        "code": "028286353",
+        "nickname": "さち༻Ð༺",
+        "character_id": 12760,
+        "level": 1225,
+        "bounty": "10億8740万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 67526616,
+        "level": 10,
+        "win_count": 122
+      }
+    },
+    {
+      "rank": 79,
+      "user": {
+        "code": "067028329",
+        "nickname": "Ｐ＆Ａ",
+        "character_id": 13472,
+        "level": 1397,
+        "bounty": "11億4375万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 67236588,
+        "level": 10,
+        "win_count": 48
+      }
+    },
+    {
+      "rank": 80,
+      "user": {
+        "code": "793553920",
+        "nickname": "小鳥丸",
+        "character_id": 14523,
+        "level": 1918,
+        "bounty": "9億1181万5000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 67229158,
+        "level": 10,
+        "win_count": 59
+      }
+    },
+    {
+      "rank": 81,
+      "user": {
+        "code": "110333422",
+        "nickname": "フックン",
+        "character_id": 14513,
+        "level": 1204,
+        "bounty": "11億4015万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 67165132,
+        "level": 10,
+        "win_count": 29
+      }
+    },
+    {
+      "rank": 82,
+      "user": {
+        "code": "232300131",
+        "nickname": "ソラ☆の一味",
+        "character_id": 14512,
+        "level": 899,
+        "bounty": "6億4121万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 66865517,
+        "level": 10,
+        "win_count": 24
+      }
+    },
+    {
+      "rank": 83,
+      "user": {
+        "code": "735447434",
+        "nickname": "Lucky☘️",
+        "character_id": 14512,
+        "level": 1307,
+        "bounty": "12億2805万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 66832150,
+        "level": 10,
+        "win_count": 48
+      }
+    },
+    {
+      "rank": 84,
+      "user": {
+        "code": "098403319",
+        "nickname": "٩まり۶",
+        "character_id": 10601,
+        "level": 882,
+        "bounty": "6億3595万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 66682719,
+        "level": 10,
+        "win_count": 75
+      }
+    },
+    {
+      "rank": 85,
+      "user": {
+        "code": "809299637",
+        "nickname": "Tun",
+        "character_id": 14513,
+        "level": 1546,
+        "bounty": "7億0800万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 66515266,
+        "level": 10,
+        "win_count": 87
+      }
+    },
+    {
+      "rank": 86,
+      "user": {
+        "code": "372824433",
+        "nickname": "NJPW",
+        "character_id": 10153,
+        "level": 1465,
+        "bounty": "10億5970万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 66279106,
+        "level": 10,
+        "win_count": 162
+      }
+    },
+    {
+      "rank": 87,
+      "user": {
+        "code": "989762493",
+        "nickname": "笑う鼻",
+        "character_id": 13472,
+        "level": 1770,
+        "bounty": "12億6015万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 66010350,
+        "level": 10,
+        "win_count": 153
+      }
+    },
+    {
+      "rank": 88,
+      "user": {
+        "code": "230033840",
+        "nickname": "Daiking",
+        "character_id": 14513,
+        "level": 1430,
+        "bounty": "11億9410万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 65957130,
+        "level": 10,
+        "win_count": 444
+      }
+    },
+    {
+      "rank": 89,
+      "user": {
+        "code": "469534473",
+        "nickname": "ゆすけの一味愛⃝͙",
+        "character_id": 13472,
+        "level": 1515,
+        "bounty": "10億1725万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 65870671,
+        "level": 10,
+        "win_count": 138
+      }
+    },
+    {
+      "rank": 90,
+      "user": {
+        "code": "222378249",
+        "nickname": "・・・７ ",
+        "character_id": 14512,
+        "level": 1485,
+        "bounty": "12億3410万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 65825152,
+        "level": 10,
+        "win_count": 73
+      }
+    },
+    {
+      "rank": 91,
+      "user": {
+        "code": "952226339",
+        "nickname": "sat　",
+        "character_id": 14523,
+        "level": 874,
+        "bounty": "10億0950万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 65338705,
+        "level": 10,
+        "win_count": 65
+      }
+    },
+    {
+      "rank": 92,
+      "user": {
+        "code": "115747388",
+        "nickname": "✞Mr.たそがれ✞",
+        "character_id": 14512,
+        "level": 1110,
+        "bounty": "9億5925万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 65316278,
+        "level": 10,
+        "win_count": 45
+      }
+    },
+    {
+      "rank": 93,
+      "user": {
+        "code": "464987358",
+        "nickname": "サボ×かぐや様",
+        "character_id": 14512,
+        "level": 1435,
+        "bounty": "12億4800万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 65162364,
+        "level": 10,
+        "win_count": 118
+      }
+    },
+    {
+      "rank": 94,
+      "user": {
+        "code": "720359904",
+        "nickname": "ラテ＆ベル",
+        "character_id": 13701,
+        "level": 1623,
+        "bounty": "12億1525万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 65108231,
+        "level": 10,
+        "win_count": 98
+      }
+    },
+    {
+      "rank": 95,
+      "user": {
+        "code": "385491147",
+        "nickname": "D.G",
+        "character_id": 14512,
+        "level": 1522,
+        "bounty": "10億2055万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 64986264,
+        "level": 10,
+        "win_count": 49
+      }
+    },
+    {
+      "rank": 96,
+      "user": {
+        "code": "596302581",
+        "nickname": "ひざこぞう",
+        "character_id": 14513,
+        "level": 1070,
+        "bounty": "9億1091万5000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 64885116,
+        "level": 10,
+        "win_count": 105
+      }
+    },
+    {
+      "rank": 97,
+      "user": {
+        "code": "538647495",
+        "nickname": "★Yoshi★",
+        "character_id": 13615,
+        "level": 1543,
+        "bounty": "11億6215万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 64829757,
+        "level": 10,
+        "win_count": 265
+      }
+    },
+    {
+      "rank": 98,
+      "user": {
+        "code": "324534095",
+        "nickname": "蛇　LiLi  姫",
+        "character_id": 14512,
+        "level": 1122,
+        "bounty": "5億5353万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 64795332,
+        "level": 10,
+        "win_count": 102
+      }
+    },
+    {
+      "rank": 99,
+      "user": {
+        "code": "044439633",
+        "nickname": "[S₣]Rots",
+        "character_id": 14523,
+        "level": 1536,
+        "bounty": "10億3108万5000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 64689382,
+        "level": 10,
+        "win_count": 33
+      }
+    },
+    {
+      "rank": 100,
+      "user": {
+        "code": "448339647",
+        "nickname": "★黒刀★ ༄ིϏ",
+        "character_id": 14512,
+        "level": 1469,
+        "bounty": "12億8480万0000"
+      },
+      "user_assault_rumble_event": {
+        "total_max_score": 64552803,
+        "level": 10,
+        "win_count": 470
+      }
+    }
+  ]
+}
