@@ -1,0 +1,2488 @@
+{
+  "current_ranking": -1,
+  "current_score": 0,
+  "ranking_datas": [
+    {
+      "ranking": 1,
+      "ranking_point": 2196,
+      "pirates_arena_deck": [
+        12475,
+        14053,
+        14122,
+        13924,
+        14207,
+        null,
+        null,
+        null
+      ],
+      "user": {
+        "id": 35834725,
+        "nickname": "ウル兄",
+        "achievement": "<icon=common_font_super_pirate_rumble_0054_arlong_4.png>",
+        "level": 1332,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 124
+      }
+    },
+    {
+      "ranking": 2,
+      "ranking_point": 1964,
+      "pirates_arena_deck": [
+        14304,
+        14058,
+        14219,
+        13559,
+        14254,
+        13969,
+        14272,
+        12710
+      ],
+      "user": {
+        "id": 55885307,
+        "nickname": "太一海賊！",
+        "achievement": "<icon=common_font_super_pirate_rumble_0095_sabo_koara_nyusyo_10915.png>と<icon=common_font_dairansen_0090_kizaru_kantou_14411.png>",
+        "level": 755,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 11704
+      }
+    },
+    {
+      "ranking": 3,
+      "ranking_point": 1926,
+      "pirates_arena_deck": [
+        14122,
+        13178,
+        14206,
+        14359,
+        14313,
+        14257,
+        12861,
+        14212
+      ],
+      "user": {
+        "id": 68735124,
+        "nickname": "北山一派",
+        "achievement": "<icon=common_font_grandparty_0092_kuma_pegapunk_14401_14402.png>",
+        "level": 660,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1554
+      }
+    },
+    {
+      "ranking": 4,
+      "ranking_point": 1782,
+      "pirates_arena_deck": [
+        14066,
+        14407,
+        14056,
+        14058,
+        14411,
+        12717,
+        14251,
+        14019
+      ],
+      "user": {
+        "id": 38598019,
+        "nickname": "はらす࿐⋆͛☪︎",
+        "achievement": "煮えてなんぼ",
+        "level": 1467,
+        "pirates_grade_id": 20
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 43
+      }
+    },
+    {
+      "ranking": 5,
+      "ranking_point": 1770,
+      "pirates_arena_deck": [
+        13958,
+        11385,
+        14463,
+        13715,
+        14202,
+        13924,
+        13602,
+        14108
+      ],
+      "user": {
+        "id": 57587034,
+        "nickname": "ଘS♚SUZUKAଓ",
+        "achievement": "魔女に逃げ傷なし",
+        "level": 1531,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 44
+      }
+    },
+    {
+      "ranking": 6,
+      "ranking_point": 1769,
+      "pirates_arena_deck": [
+        14207,
+        14122,
+        13212,
+        14063,
+        14053,
+        13919,
+        null,
+        null
+      ],
+      "user": {
+        "id": 70189807,
+        "nickname": "やのぴー",
+        "achievement": "わらわ",
+        "level": 1175,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 10
+      }
+    },
+    {
+      "ranking": 7,
+      "ranking_point": 1763,
+      "pirates_arena_deck": [
+        14464,
+        14463,
+        14462,
+        14058,
+        14457,
+        13715,
+        14459,
+        11385
+      ],
+      "user": {
+        "id": 75635135,
+        "nickname": "♛Azzurro♛",
+        "achievement": "<icon=common_font_pirate_rumble_grandparty_0059_luffy_roger.png><icon=common_font_kizuna_battle_0061_yonkoh_1.png>",
+        "level": 600,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1675
+      }
+    },
+    {
+      "ranking": 8,
+      "ranking_point": 1726,
+      "pirates_arena_deck": [
+        13864,
+        14056,
+        13359,
+        11623,
+        12219,
+        13715,
+        14219,
+        11079
+      ],
+      "user": {
+        "id": 4598896,
+        "nickname": "Pandorle",
+        "achievement": "期待のルーキー",
+        "level": 1218,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1593
+      }
+    },
+    {
+      "ranking": 9,
+      "ranking_point": 1712,
+      "pirates_arena_deck": [
+        14254,
+        14012,
+        14058,
+        13704,
+        14304,
+        308,
+        10611,
+        177
+      ],
+      "user": {
+        "id": 79303694,
+        "nickname": "マース・Ｄ・リョータ",
+        "achievement": "金がヒーハー！",
+        "level": 245,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 16595
+      }
+    },
+    {
+      "ranking": 10,
+      "ranking_point": 1629,
+      "pirates_arena_deck": [
+        14254,
+        13327,
+        14203,
+        13317,
+        13472,
+        12810,
+        13723,
+        14119
+      ],
+      "user": {
+        "id": 62364699,
+        "nickname": "ⱼᵢₙₓ",
+        "achievement": "",
+        "level": 1419,
+        "pirates_grade_id": 4
+      },
+      "map_game_result": {
+        "league_number": 1,
+        "rank": 1266
+      }
+    },
+    {
+      "ranking": 11,
+      "ranking_point": 1627,
+      "pirates_arena_deck": [
+        14317,
+        14365,
+        14212,
+        14359,
+        14313,
+        14407,
+        14068,
+        1048
+      ],
+      "user": {
+        "id": 48410953,
+        "nickname": "べる坊 ஂ",
+        "achievement": "<icon=common_font_world_cruise2025_0084_nami_3.png>",
+        "level": 1738,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 71
+      }
+    },
+    {
+      "ranking": 12,
+      "ranking_point": 1615,
+      "pirates_arena_deck": [
+        135,
+        14257,
+        13818,
+        136,
+        145,
+        14359,
+        14317,
+        14313
+      ],
+      "user": {
+        "id": 7995275,
+        "nickname": "冥王俺トミ࿐⋆͛☪︎",
+        "achievement": "冥王",
+        "level": 1502,
+        "pirates_grade_id": 20
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 21
+      }
+    },
+    {
+      "ranking": 13,
+      "ranking_point": 1516,
+      "pirates_arena_deck": [
+        14464,
+        14058,
+        11449,
+        13908,
+        14452,
+        14463,
+        null,
+        null
+      ],
+      "user": {
+        "id": 14271566,
+        "nickname": "パッショーネ",
+        "achievement": "<icon=common_font_11th_0091.png>からのおじゃまします",
+        "level": 222,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 18909
+      }
+    },
+    {
+      "ranking": 14,
+      "ranking_point": 1349,
+      "pirates_arena_deck": [
+        14463,
+        14464,
+        14452,
+        14058,
+        14459,
+        14462,
+        11385,
+        13728
+      ],
+      "user": {
+        "id": 48906750,
+        "nickname": "麦わらの二味",
+        "achievement": "世界最強の海賊王",
+        "level": 1339,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 128
+      }
+    },
+    {
+      "ranking": 15,
+      "ranking_point": 1312,
+      "pirates_arena_deck": [
+        14216,
+        14370,
+        13864,
+        14251,
+        14056,
+        13924,
+        14418,
+        13822
+      ],
+      "user": {
+        "id": 17949434,
+        "nickname": "iced latte",
+        "achievement": "<icon=common_font_11th_0091.png>",
+        "level": 1880,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 340
+      }
+    },
+    {
+      "ranking": 16,
+      "ranking_point": 1285,
+      "pirates_arena_deck": [
+        11963,
+        14063,
+        14114,
+        14111,
+        13967,
+        13632,
+        11965,
+        null
+      ],
+      "user": {
+        "id": 19265617,
+        "nickname": "埖",
+        "achievement": "処刑人は平和主義者",
+        "level": 1198,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1560
+      }
+    },
+    {
+      "ranking": 17,
+      "ranking_point": 1217,
+      "pirates_arena_deck": [
+        14161,
+        14011,
+        14202,
+        13602,
+        13715,
+        13924,
+        13563,
+        13780
+      ],
+      "user": {
+        "id": 79229783,
+        "nickname": "川満一家",
+        "achievement": "期待のルーキー",
+        "level": 266,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": null
+      }
+    },
+    {
+      "ranking": 18,
+      "ranking_point": 1214,
+      "pirates_arena_deck": [
+        14313,
+        14219,
+        14170,
+        13559,
+        14058,
+        14012,
+        12316,
+        13966
+      ],
+      "user": {
+        "id": 57281334,
+        "nickname": "わらの一味",
+        "achievement": "期待のルーキー",
+        "level": 319,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 16690
+      }
+    },
+    {
+      "ranking": 19,
+      "ranking_point": 1197,
+      "pirates_arena_deck": [
+        14202,
+        13924,
+        14058,
+        12760,
+        13602,
+        11385,
+        null,
+        null
+      ],
+      "user": {
+        "id": 74699566,
+        "nickname": "⭐羅夢⭐",
+        "achievement": "<icon=common_font_10th.png>大剣豪",
+        "level": 567,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 1,
+        "rank": 1110
+      }
+    },
+    {
+      "ranking": 20,
+      "ranking_point": 1171,
+      "pirates_arena_deck": [
+        13452,
+        13210,
+        12760,
+        13666,
+        13119,
+        13765,
+        null,
+        null
+      ],
+      "user": {
+        "id": 64198132,
+        "nickname": "日産NISMO海賊",
+        "achievement": "海賊王と海軍",
+        "level": 353,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 16057
+      }
+    },
+    {
+      "ranking": 21,
+      "ranking_point": 1160,
+      "pirates_arena_deck": [
+        14452,
+        14207,
+        13969,
+        13602,
+        14513,
+        13715,
+        null,
+        null
+      ],
+      "user": {
+        "id": 13806211,
+        "nickname": "唐辛子の一味",
+        "achievement": "期待のルーキー",
+        "level": 456,
+        "pirates_grade_id": 14
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 11161
+      }
+    },
+    {
+      "ranking": 22,
+      "ranking_point": 1110,
+      "pirates_arena_deck": [
+        13358,
+        13970,
+        14206,
+        14056,
+        14011,
+        11623,
+        11760,
+        10712
+      ],
+      "user": {
+        "id": 73482807,
+        "nickname": "☃️ 麦 ☃️",
+        "achievement": "<icon=common_font_PirateAllianceChallenge_0075_uta_pelona_kantou.png><icon=common_font_pirate_rumble_grandparty_sp_0081_luffy_sabo_ace.png>",
+        "level": 425,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 7705
+      }
+    },
+    {
+      "ranking": 23,
+      "ranking_point": 1109,
+      "pirates_arena_deck": [
+        13212,
+        14207,
+        14213,
+        14122,
+        14053,
+        10627,
+        14219,
+        13624
+      ],
+      "user": {
+        "id": 65644340,
+        "nickname": "Ꮍüҡä",
+        "achievement": "合縁奇縁",
+        "level": 1427,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1888
+      }
+    },
+    {
+      "ranking": 24,
+      "ranking_point": 1086,
+      "pirates_arena_deck": [
+        14370,
+        13864,
+        14056,
+        14251,
+        14003,
+        14418,
+        null,
+        13822
+      ],
+      "user": {
+        "id": 51547969,
+        "nickname": "〜ララバイ〜たつやØ",
+        "achievement": "<icon=common_font_11th_0091.png>にヒーハー！",
+        "level": 1262,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 371
+      }
+    },
+    {
+      "ranking": 25,
+      "ranking_point": 1074,
+      "pirates_arena_deck": [
+        14053,
+        13212,
+        14122,
+        14063,
+        14213,
+        14272,
+        14413,
+        14414
+      ],
+      "user": {
+        "id": 55885935,
+        "nickname": "真お豆の一味",
+        "achievement": "糖分こそ力の源",
+        "level": 571,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 8458
+      }
+    },
+    {
+      "ranking": 26,
+      "ranking_point": 1047,
+      "pirates_arena_deck": [
+        13969,
+        14111,
+        13717,
+        14114,
+        14359,
+        14064,
+        13715,
+        14219
+      ],
+      "user": {
+        "id": 35179365,
+        "nickname": "炎帝",
+        "achievement": "聖地マリージョアのヒーロー",
+        "level": 280,
+        "pirates_grade_id": 14
+      },
+      "map_game_result": {}
+    },
+    {
+      "ranking": 27,
+      "ranking_point": 1040,
+      "pirates_arena_deck": [
+        13969,
+        14114,
+        13465,
+        12352,
+        13717,
+        13715,
+        null,
+        null
+      ],
+      "user": {
+        "id": 8307625,
+        "nickname": "Sanji海賊団",
+        "achievement": "<icon=common_font_pirate_rumble_grandparty_sp_0081_luffy_sabo_ace.png>のコック",
+        "level": 633,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 12067
+      }
+    },
+    {
+      "ranking": 28,
+      "ranking_point": 985,
+      "pirates_arena_deck": [
+        14063,
+        14411,
+        13904,
+        12710,
+        13704,
+        14101,
+        10926,
+        12431
+      ],
+      "user": {
+        "id": 34688659,
+        "nickname": "GREAT",
+        "achievement": "",
+        "level": 1275,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 763
+      }
+    },
+    {
+      "ranking": 29,
+      "ranking_point": 964,
+      "pirates_arena_deck": [
+        14064,
+        14101,
+        14063,
+        13858,
+        14402,
+        12861,
+        11363,
+        162
+      ],
+      "user": {
+        "id": 55459201,
+        "nickname": "バカルディ",
+        "achievement": "期待のルーキー",
+        "level": 523,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 7198
+      }
+    },
+    {
+      "ranking": 30,
+      "ranking_point": 898,
+      "pirates_arena_deck": [
+        13969,
+        14359,
+        14064,
+        12959,
+        14114,
+        14206,
+        13632,
+        13715
+      ],
+      "user": {
+        "id": 79390177,
+        "nickname": "カールスモーキー",
+        "achievement": "期待のルーキー",
+        "level": 514,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 8697
+      }
+    },
+    {
+      "ranking": 31,
+      "ranking_point": 897,
+      "pirates_arena_deck": [
+        13858,
+        13904,
+        13779,
+        13827,
+        14525,
+        12403,
+        12457,
+        12710
+      ],
+      "user": {
+        "id": 47702481,
+        "nickname": "KAZU ",
+        "achievement": "期待のルーキー",
+        "level": 864,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 5297
+      }
+    },
+    {
+      "ranking": 32,
+      "ranking_point": 877,
+      "pirates_arena_deck": [
+        14106,
+        14304,
+        13559,
+        14058,
+        14254,
+        14062,
+        14219,
+        13454
+      ],
+      "user": {
+        "id": 70151291,
+        "nickname": "麦麦の一味",
+        "achievement": "どっちつかずの正義でスットンキョー",
+        "level": 391,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 8939
+      }
+    },
+    {
+      "ranking": 33,
+      "ranking_point": 876,
+      "pirates_arena_deck": [
+        14207,
+        14063,
+        14122,
+        13212,
+        14053,
+        14272,
+        14219,
+        13715
+      ],
+      "user": {
+        "id": 69305085,
+        "nickname": "疾風✶迅雷",
+        "achievement": "<icon=common_font_11th_0091.png><icon=common_font_grandparty_0092_kuma_pegapunk_14401_14402.png>",
+        "level": 801,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 622
+      }
+    },
+    {
+      "ranking": 34,
+      "ranking_point": 869,
+      "pirates_arena_deck": [
+        13969,
+        14114,
+        14063,
+        14111,
+        14359,
+        13632,
+        14219,
+        13715
+      ],
+      "user": {
+        "id": 20122596,
+        "nickname": "RED-XIII",
+        "achievement": "期待のルーキー",
+        "level": 1224,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 2778
+      }
+    },
+    {
+      "ranking": 35,
+      "ranking_point": 866,
+      "pirates_arena_deck": [
+        13818,
+        14212,
+        14317,
+        14359,
+        14313,
+        656,
+        782,
+        748
+      ],
+      "user": {
+        "id": 65012938,
+        "nickname": "☠️新時代☠️",
+        "achievement": "船長命令は勝手にしやがれ",
+        "level": 1120,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 161
+      }
+    },
+    {
+      "ranking": 36,
+      "ranking_point": 860,
+      "pirates_arena_deck": [
+        13632,
+        14301,
+        13516,
+        14170,
+        14523,
+        null,
+        null,
+        null
+      ],
+      "user": {
+        "id": 48957595,
+        "nickname": "ピトー☆♦︎",
+        "achievement": "集結",
+        "level": 1822,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 5
+      }
+    },
+    {
+      "ranking": 37,
+      "ranking_point": 857,
+      "pirates_arena_deck": [
+        13818,
+        14257,
+        14359,
+        14313,
+        14317,
+        14428,
+        14071,
+        13663
+      ],
+      "user": {
+        "id": 2114915,
+        "nickname": "ブラックパール⚓️",
+        "achievement": "期待のルーキー",
+        "level": 1179,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1042
+      }
+    },
+    {
+      "ranking": 38,
+      "ranking_point": 848,
+      "pirates_arena_deck": [
+        14254,
+        13472,
+        14467,
+        14202,
+        13317,
+        14419,
+        10807,
+        13336
+      ],
+      "user": {
+        "id": 55965764,
+        "nickname": "ニカ",
+        "achievement": "期待のルーキー",
+        "level": 268,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {}
+    },
+    {
+      "ranking": 39,
+      "ranking_point": 846,
+      "pirates_arena_deck": [
+        13632,
+        13559,
+        14219,
+        14313,
+        14170,
+        14106,
+        13966,
+        14523
+      ],
+      "user": {
+        "id": 10641047,
+        "nickname": "⚡️JOJO⚡️",
+        "achievement": "",
+        "level": 1148,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1628
+      }
+    },
+    {
+      "ranking": 40,
+      "ranking_point": 844,
+      "pirates_arena_deck": [
+        11109,
+        13858,
+        12710,
+        14272,
+        13969,
+        1268,
+        13915,
+        10395
+      ],
+      "user": {
+        "id": 52594273,
+        "nickname": "PARK･ᴗ･KOU",
+        "achievement": "謎の空飛ぶ海賊",
+        "level": 1353,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 6283
+      }
+    },
+    {
+      "ranking": 41,
+      "ranking_point": 838,
+      "pirates_arena_deck": [
+        13818,
+        14022,
+        13864,
+        14272,
+        13627,
+        14310,
+        14406,
+        11667
+      ],
+      "user": {
+        "id": 75103476,
+        "nickname": "麦めしの一味",
+        "achievement": "期待のルーキー",
+        "level": 528,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 2159
+      }
+    },
+    {
+      "ranking": 42,
+      "ranking_point": 827,
+      "pirates_arena_deck": [
+        14106,
+        14265,
+        14254,
+        14304,
+        14219,
+        10290,
+        10412,
+        10382
+      ],
+      "user": {
+        "id": 1701442,
+        "nickname": "Flower G",
+        "achievement": "期待のルーキー",
+        "level": 1591,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 3150
+      }
+    },
+    {
+      "ranking": 43,
+      "ranking_point": 826,
+      "pirates_arena_deck": [
+        13317,
+        13327,
+        12466,
+        11262,
+        12754,
+        12866,
+        null,
+        null
+      ],
+      "user": {
+        "id": 13130171,
+        "nickname": "ザキの息絶えた一味",
+        "achievement": "期待のルーキー",
+        "level": 608,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 12610
+      }
+    },
+    {
+      "ranking": 44,
+      "ranking_point": 824,
+      "pirates_arena_deck": [
+        10600,
+        11579,
+        11331,
+        10952,
+        11504,
+        10888,
+        11614,
+        11571
+      ],
+      "user": {
+        "id": 20663104,
+        "nickname": "ココ",
+        "achievement": "期待のルーキー",
+        "level": 949,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 18252
+      }
+    },
+    {
+      "ranking": 45,
+      "ranking_point": 823,
+      "pirates_arena_deck": [
+        12420,
+        12385,
+        12952,
+        13702,
+        13715,
+        14351,
+        null,
+        null
+      ],
+      "user": {
+        "id": 11362196,
+        "nickname": "ピーヒョロ",
+        "achievement": "期待のルーキー",
+        "level": 489,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 1,
+        "rank": 19363
+      }
+    },
+    {
+      "ranking": 46,
+      "ranking_point": 821,
+      "pirates_arena_deck": [
+        14207,
+        14053,
+        13212,
+        14471,
+        14122,
+        null,
+        null,
+        null
+      ],
+      "user": {
+        "id": 9547415,
+        "nickname": "フリーの貴公子⚜️",
+        "achievement": "",
+        "level": 1260,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 372
+      }
+    },
+    {
+      "ranking": 47,
+      "ranking_point": 810,
+      "pirates_arena_deck": [
+        10019,
+        10021,
+        10023,
+        10025,
+        14319,
+        10027,
+        10746,
+        10601
+      ],
+      "user": {
+        "id": 35440517,
+        "nickname": "nazoms",
+        "achievement": "オヤビン",
+        "level": 2036,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1932
+      }
+    },
+    {
+      "ranking": 47,
+      "ranking_point": 810,
+      "pirates_arena_deck": [
+        14517,
+        12959,
+        14114,
+        13974,
+        13969,
+        13108,
+        null,
+        null
+      ],
+      "user": {
+        "id": 27940670,
+        "nickname": "ゆう༻Ð༺",
+        "achievement": "世界最強の雑用",
+        "level": 1145,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 91
+      }
+    },
+    {
+      "ranking": 49,
+      "ranking_point": 806,
+      "pirates_arena_deck": [
+        612,
+        14053,
+        13212,
+        14122,
+        14207,
+        null,
+        null,
+        null
+      ],
+      "user": {
+        "id": 12321460,
+        "nickname": "ナオト",
+        "achievement": "<icon=common_font_gekitou_lufy_sanji_2.png>",
+        "level": 1531,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 3347
+      }
+    },
+    {
+      "ranking": 50,
+      "ranking_point": 805,
+      "pirates_arena_deck": [
+        14114,
+        14111,
+        14359,
+        14513,
+        13969,
+        11079,
+        13715,
+        11370
+      ],
+      "user": {
+        "id": 49235358,
+        "nickname": "大魔神",
+        "achievement": "見たなっ!!!!赤髪の娘",
+        "level": 624,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 11172
+      }
+    },
+    {
+      "ranking": 51,
+      "ranking_point": 804,
+      "pirates_arena_deck": [
+        14062,
+        13704,
+        13915,
+        14525,
+        13858,
+        13819,
+        13214,
+        14064
+      ],
+      "user": {
+        "id": 65563201,
+        "nickname": "CLUB GOLD2",
+        "achievement": "メロメロの<icon=common_font_super_pirate_rumble_shiki_kantou.png>",
+        "level": 494,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 11117
+      }
+    },
+    {
+      "ranking": 52,
+      "ranking_point": 799,
+      "pirates_arena_deck": [
+        14525,
+        13704,
+        13615,
+        13827,
+        14101,
+        12710,
+        12431,
+        13767
+      ],
+      "user": {
+        "id": 72861060,
+        "nickname": "タクボンド",
+        "achievement": "ハードボイルドの高み",
+        "level": 502,
+        "pirates_grade_id": 14
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 13979
+      }
+    },
+    {
+      "ranking": 53,
+      "ranking_point": 793,
+      "pirates_arena_deck": [
+        13915,
+        13858,
+        14062,
+        13704,
+        13564,
+        13827,
+        null,
+        null
+      ],
+      "user": {
+        "id": 28922768,
+        "nickname": "ヘルプフィールド",
+        "achievement": "<icon=common_font_10th.png>",
+        "level": 1666,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 200
+      }
+    },
+    {
+      "ranking": 54,
+      "ranking_point": 792,
+      "pirates_arena_deck": [
+        11104,
+        12577,
+        13631,
+        11135,
+        13052,
+        8,
+        10982,
+        11076
+      ],
+      "user": {
+        "id": 74261438,
+        "nickname": "ルヒィ、悟空",
+        "achievement": "海賊狩りのゴム人間",
+        "level": 334,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 1,
+        "rank": 5832
+      }
+    },
+    {
+      "ranking": 54,
+      "ranking_point": 792,
+      "pirates_arena_deck": [
+        14401,
+        13914,
+        11449,
+        13252,
+        13702,
+        12760,
+        13253,
+        13924
+      ],
+      "user": {
+        "id": 70702547,
+        "nickname": "10969er",
+        "achievement": "<icon=common_font_kizuna_battle_0061_yonkoh_1.png><icon=common_font_pirate_rumble_grandparty_0088_pica_dfla_14359_14351.png>",
+        "level": 1853,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 479
+      }
+    },
+    {
+      "ranking": 56,
+      "ranking_point": 790,
+      "pirates_arena_deck": [
+        11970,
+        13632,
+        11825,
+        11432,
+        12768,
+        13337,
+        13427,
+        null
+      ],
+      "user": {
+        "id": 64004067,
+        "nickname": "マサ",
+        "achievement": "海賊王の海賊王",
+        "level": 306,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 5047
+      }
+    },
+    {
+      "ranking": 57,
+      "ranking_point": 789,
+      "pirates_arena_deck": [
+        14254,
+        14056,
+        14459,
+        14411,
+        14058,
+        13559,
+        12270,
+        11623
+      ],
+      "user": {
+        "id": 78009519,
+        "nickname": "エンビ",
+        "achievement": "ゴム人間の海賊王",
+        "level": 356,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 14508
+      }
+    },
+    {
+      "ranking": 57,
+      "ranking_point": 789,
+      "pirates_arena_deck": [
+        13702,
+        14307,
+        13955,
+        12420,
+        13668,
+        13856,
+        11911,
+        10152
+      ],
+      "user": {
+        "id": 77343588,
+        "nickname": "麦わらの一味",
+        "achievement": "期待のルーキー",
+        "level": 473,
+        "pirates_grade_id": 14
+      },
+      "map_game_result": {
+        "league_number": 1,
+        "rank": 27
+      }
+    },
+    {
+      "ranking": 59,
+      "ranking_point": 786,
+      "pirates_arena_deck": [
+        13602,
+        14202,
+        13704,
+        13702,
+        13472,
+        null,
+        null,
+        null
+      ],
+      "user": {
+        "id": 49378050,
+        "nickname": "麦わらの一味(^^v",
+        "achievement": "<icon=common_font_pirate_rumble_grandparty_0035_luffy_gear5.png><icon=common_font_grandparty_0098_garling_garp_14512_14513.png>",
+        "level": 1162,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 414
+      }
+    },
+    {
+      "ranking": 60,
+      "ranking_point": 784,
+      "pirates_arena_deck": [
+        14452,
+        13602,
+        14063,
+        13408,
+        13827,
+        13715,
+        14064,
+        13767
+      ],
+      "user": {
+        "id": 77151693,
+        "nickname": "ポイン",
+        "achievement": "敗けないしヘッポコ",
+        "level": 269,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 4592
+      }
+    },
+    {
+      "ranking": 61,
+      "ranking_point": 782,
+      "pirates_arena_deck": [
+        14162,
+        13775,
+        13924,
+        13861,
+        14011,
+        14161,
+        null,
+        null
+      ],
+      "user": {
+        "id": 62277986,
+        "nickname": "さる太郎✮″",
+        "achievement": "希望の星",
+        "level": 1380,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 160
+      }
+    },
+    {
+      "ranking": 62,
+      "ranking_point": 779,
+      "pirates_arena_deck": [
+        13003,
+        1522,
+        11520,
+        11677,
+        653,
+        1048,
+        1205,
+        11111
+      ],
+      "user": {
+        "id": 6632207,
+        "nickname": "麦わらメンバー",
+        "achievement": "期待のルーキー",
+        "level": 494,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 8800
+      }
+    },
+    {
+      "ranking": 63,
+      "ranking_point": 776,
+      "pirates_arena_deck": [
+        14053,
+        14122,
+        13212,
+        11447,
+        14207,
+        14262,
+        12512,
+        14272
+      ],
+      "user": {
+        "id": 10207783,
+        "nickname": "グラパ3",
+        "achievement": "<icon=common_font_pirate_rumble_grandparty_0085_luffy_lucch_14304.png>の猛者",
+        "level": 534,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": null
+      }
+    },
+    {
+      "ranking": 64,
+      "ranking_point": 773,
+      "pirates_arena_deck": [
+        11587,
+        12502,
+        12919,
+        11104,
+        13425,
+        13015,
+        null,
+        null
+      ],
+      "user": {
+        "id": 51180777,
+        "nickname": "ウニ盛りのヤス",
+        "achievement": "期待のルーキー",
+        "level": 607,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 13086
+      }
+    },
+    {
+      "ranking": 65,
+      "ranking_point": 766,
+      "pirates_arena_deck": [
+        13359,
+        13852,
+        14003,
+        13864,
+        14056,
+        14353,
+        null,
+        null
+      ],
+      "user": {
+        "id": 21586321,
+        "nickname": "ギンタ屋！",
+        "achievement": "一番人気の切腹",
+        "level": 1218,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 869
+      }
+    },
+    {
+      "ranking": 66,
+      "ranking_point": 764,
+      "pirates_arena_deck": [
+        13858,
+        12710,
+        14101,
+        13704,
+        14525,
+        13564,
+        12861,
+        12431
+      ],
+      "user": {
+        "id": 5716775,
+        "nickname": "ঌシオンঌ ",
+        "achievement": "不死鳥よねー",
+        "level": 1518,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 148
+      }
+    },
+    {
+      "ranking": 67,
+      "ranking_point": 756,
+      "pirates_arena_deck": [
+        14516,
+        13602,
+        14207,
+        14202,
+        14463,
+        14161,
+        14462,
+        13715
+      ],
+      "user": {
+        "id": 49000308,
+        "nickname": "ゾッド",
+        "achievement": "<icon=common_font_dairansen_kaido_mom_1.png>",
+        "level": 762,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 3050
+      }
+    },
+    {
+      "ranking": 68,
+      "ranking_point": 751,
+      "pirates_arena_deck": [
+        14304,
+        14254,
+        14219,
+        14265,
+        14313,
+        13559,
+        14272,
+        13005
+      ],
+      "user": {
+        "id": 46967022,
+        "nickname": "MaE",
+        "achievement": "夜の紳士",
+        "level": 355,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 5670
+      }
+    },
+    {
+      "ranking": 69,
+      "ranking_point": 750,
+      "pirates_arena_deck": [
+        11827,
+        13614,
+        10789,
+        11825,
+        11564,
+        12058,
+        11568,
+        13426
+      ],
+      "user": {
+        "id": 56236566,
+        "nickname": "びーさいど、、",
+        "achievement": "自由なる鷹",
+        "level": 254,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 6037
+      }
+    },
+    {
+      "ranking": 70,
+      "ranking_point": 747,
+      "pirates_arena_deck": [
+        14202,
+        14463,
+        14207,
+        13924,
+        14516,
+        13715,
+        13158,
+        11385
+      ],
+      "user": {
+        "id": 74431319,
+        "nickname": "珍宝銀銀丸®️",
+        "achievement": "ごめんねニップルライト",
+        "level": 436,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 14686
+      }
+    },
+    {
+      "ranking": 71,
+      "ranking_point": 745,
+      "pirates_arena_deck": [
+        13408,
+        14063,
+        13818,
+        13704,
+        14064,
+        12156,
+        12210,
+        12710
+      ],
+      "user": {
+        "id": 73738431,
+        "nickname": "慎",
+        "achievement": "<icon=common_font_world_cruise2024_0053_luffy_kantou.png><icon=common_font_super_pirate_rumble_0078_sanji_purin_nyusyo.png>",
+        "level": 208,
+        "pirates_grade_id": null
+      },
+      "map_game_result": {}
+    },
+    {
+      "ranking": 72,
+      "ranking_point": 744,
+      "pirates_arena_deck": [
+        11811,
+        13559,
+        14058,
+        13915,
+        13454,
+        14304,
+        null,
+        null
+      ],
+      "user": {
+        "id": 62620387,
+        "nickname": "PRNC",
+        "achievement": "王子",
+        "level": 979,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 637
+      }
+    },
+    {
+      "ranking": 72,
+      "ranking_point": 744,
+      "pirates_arena_deck": [
+        14304,
+        14254,
+        14219,
+        13559,
+        14058,
+        14272,
+        11520,
+        14313
+      ],
+      "user": {
+        "id": 59108132,
+        "nickname": "世界漫遊",
+        "achievement": "<icon=common_font_super_pirate_rumble_0019_sugar_kantou.png>でも<icon=common_font_kizuna_battle_0065_moria_3.png>",
+        "level": 506,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 6454
+      }
+    },
+    {
+      "ranking": 74,
+      "ranking_point": 739,
+      "pirates_arena_deck": [
+        10155,
+        13233,
+        11264,
+        11289,
+        13912,
+        1836,
+        12670,
+        10150
+      ],
+      "user": {
+        "id": 78093414,
+        "nickname": "ポイズン・ラナ",
+        "achievement": "期待のルーキー",
+        "level": 624,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 904
+      }
+    },
+    {
+      "ranking": 75,
+      "ranking_point": 736,
+      "pirates_arena_deck": [
+        14370,
+        14251,
+        13864,
+        14056,
+        14418,
+        14003,
+        13914,
+        14414
+      ],
+      "user": {
+        "id": 41725860,
+        "nickname": "麦わら海賊団",
+        "achievement": "武闘派でもヘナチョコ",
+        "level": 1477,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 143
+      }
+    },
+    {
+      "ranking": 75,
+      "ranking_point": 736,
+      "pirates_arena_deck": [
+        14122,
+        14053,
+        14207,
+        14063,
+        null,
+        null,
+        null,
+        null
+      ],
+      "user": {
+        "id": 13995970,
+        "nickname": "ｼｬﾝｸ鈴木",
+        "achievement": "疾風の隻腕",
+        "level": 1323,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 719
+      }
+    },
+    {
+      "ranking": 77,
+      "ranking_point": 731,
+      "pirates_arena_deck": [
+        14304,
+        14313,
+        14058,
+        14219,
+        14254,
+        12808,
+        13559,
+        12316
+      ],
+      "user": {
+        "id": 7729546,
+        "nickname": "ワールドＤ",
+        "achievement": "<icon=common_font_pirate_rumble_grandparty_0066_jinbe.png><icon=common_font_pirate_rumble_grandparty_0085_luffy_lucch_14304.png>",
+        "level": 814,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 1063
+      }
+    },
+    {
+      "ranking": 78,
+      "ranking_point": 729,
+      "pirates_arena_deck": [
+        13454,
+        14304,
+        13559,
+        13460,
+        14219,
+        14012,
+        13108,
+        13715
+      ],
+      "user": {
+        "id": 7903865,
+        "nickname": "Aian",
+        "achievement": "期待のルーキー",
+        "level": 485,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 16407
+      }
+    },
+    {
+      "ranking": 79,
+      "ranking_point": 728,
+      "pirates_arena_deck": [
+        14452,
+        13924,
+        12014,
+        11385,
+        13715,
+        14162,
+        14161,
+        14460
+      ],
+      "user": {
+        "id": 74497796,
+        "nickname": "麦わらの一味",
+        "achievement": "期待のルーキー",
+        "level": 593,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 1,
+        "rank": 696
+      }
+    },
+    {
+      "ranking": 80,
+      "ranking_point": 725,
+      "pirates_arena_deck": [
+        14304,
+        14257,
+        14254,
+        14411,
+        14272,
+        14414,
+        14219,
+        14458
+      ],
+      "user": {
+        "id": 74246662,
+        "nickname": "麦わらの一味",
+        "achievement": "期待のルーキー",
+        "level": 541,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 15919
+      }
+    },
+    {
+      "ranking": 81,
+      "ranking_point": 723,
+      "pirates_arena_deck": [
+        13966,
+        14056,
+        14313,
+        14359,
+        14058,
+        14066,
+        11447,
+        14310
+      ],
+      "user": {
+        "id": 26510278,
+        "nickname": "≡Ｒx＄E≡",
+        "achievement": "<icon=common_font_pirate_rumble_grandparty_0059_luffy_roger.png><icon=common_font_pirate_rumble_grandparty_sp_0068_luffy_kaidou.png>",
+        "level": 574,
+        "pirates_grade_id": null
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 4329
+      }
+    },
+    {
+      "ranking": 82,
+      "ranking_point": 722,
+      "pirates_arena_deck": [
+        14464,
+        14463,
+        14452,
+        11449,
+        14058,
+        13715,
+        14459,
+        354
+      ],
+      "user": {
+        "id": 77194069,
+        "nickname": "なははははは",
+        "achievement": "<icon=common_font_pirate_rumble_grandparty_sp_0068_luffy_kaidou.png><icon=common_font_kizuna_battle_0072_hawkins_1.png>",
+        "level": 550,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 9071
+      }
+    },
+    {
+      "ranking": 83,
+      "ranking_point": 719,
+      "pirates_arena_deck": [
+        13915,
+        14411,
+        13858,
+        14512,
+        13704,
+        14458,
+        null,
+        null
+      ],
+      "user": {
+        "id": 65386019,
+        "nickname": "ＷＮＭ",
+        "achievement": "",
+        "level": 1365,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 78
+      }
+    },
+    {
+      "ranking": 83,
+      "ranking_point": 719,
+      "pirates_arena_deck": [
+        14053,
+        14122,
+        13212,
+        14063,
+        14207,
+        11447,
+        14272,
+        14262
+      ],
+      "user": {
+        "id": 15551504,
+        "nickname": "ゴールドラッシュ",
+        "achievement": "伝説のクソジジイ",
+        "level": 801,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 431
+      }
+    },
+    {
+      "ranking": 85,
+      "ranking_point": 713,
+      "pirates_arena_deck": [
+        14517,
+        13974,
+        14212,
+        12526,
+        14063,
+        14058,
+        13627,
+        12603
+      ],
+      "user": {
+        "id": 80312871,
+        "nickname": "熊の一味",
+        "achievement": "<icon=common_font_kizuna_battle_0089_zorojuro_2_14421.png>のビッグ皇帝",
+        "level": 160,
+        "pirates_grade_id": null
+      },
+      "map_game_result": {}
+    },
+    {
+      "ranking": 86,
+      "ranking_point": 710,
+      "pirates_arena_deck": [
+        14251,
+        14370,
+        13666,
+        14003,
+        14056,
+        14413,
+        13411,
+        14414
+      ],
+      "user": {
+        "id": 29275550,
+        "nickname": "と",
+        "achievement": "ルーキーとルーキー",
+        "level": 459,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 2,
+        "rank": 1609
+      }
+    },
+    {
+      "ranking": 87,
+      "ranking_point": 709,
+      "pirates_arena_deck": [
+        14170,
+        14058,
+        14219,
+        14254,
+        14313,
+        13064,
+        1830,
+        12316
+      ],
+      "user": {
+        "id": 3675968,
+        "nickname": "パンダまん",
+        "achievement": "大酒のソウル",
+        "level": 620,
+        "pirates_grade_id": 7
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 12616
+      }
+    },
+    {
+      "ranking": 88,
+      "ranking_point": 708,
+      "pirates_arena_deck": [
+        14053,
+        14254,
+        13317,
+        13559,
+        12760,
+        14219,
+        11199,
+        13253
+      ],
+      "user": {
+        "id": 68808475,
+        "nickname": "白髪海賊団",
+        "achievement": "髪の毛真っ白",
+        "level": 330,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 13360
+      }
+    },
+    {
+      "ranking": 89,
+      "ranking_point": 704,
+      "pirates_arena_deck": [
+        12572,
+        12111,
+        13780,
+        11726,
+        10839,
+        10425,
+        10361,
+        10580
+      ],
+      "user": {
+        "id": 80382540,
+        "nickname": "ヒビキ海賊団",
+        "achievement": "男たる男",
+        "level": 287,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 11541
+      }
+    },
+    {
+      "ranking": 90,
+      "ranking_point": 703,
+      "pirates_arena_deck": [
+        1975,
+        14257,
+        14359,
+        13632,
+        14313,
+        14056,
+        14459,
+        13064
+      ],
+      "user": {
+        "id": 57157294,
+        "nickname": "Ken",
+        "achievement": "期待のルーキー",
+        "level": 151,
+        "pirates_grade_id": null
+      },
+      "map_game_result": {}
+    },
+    {
+      "ranking": 91,
+      "ranking_point": 702,
+      "pirates_arena_deck": [
+        14251,
+        14370,
+        14056,
+        13864,
+        12219,
+        null,
+        null,
+        null
+      ],
+      "user": {
+        "id": 76060741,
+        "nickname": "ルンバー海賊団",
+        "achievement": "期待のルーキー",
+        "level": 226,
+        "pirates_grade_id": 17
+      },
+      "map_game_result": {}
+    },
+    {
+      "ranking": 92,
+      "ranking_point": 700,
+      "pirates_arena_deck": [
+        679,
+        14114,
+        14111,
+        14063,
+        13969,
+        14064,
+        null,
+        14219
+      ],
+      "user": {
+        "id": 68812414,
+        "nickname": "麦わらじの一味　",
+        "achievement": "<icon=common_font_grandparty_0098_garling_garp_14512_14513.png>の小物",
+        "level": 1407,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 57
+      }
+    },
+    {
+      "ranking": 93,
+      "ranking_point": 696,
+      "pirates_arena_deck": [
+        13614,
+        12385,
+        13715,
+        13702,
+        14053,
+        13365,
+        12526,
+        14415
+      ],
+      "user": {
+        "id": 75637347,
+        "nickname": "麦わら太郎",
+        "achievement": "ふしだらな希望の星",
+        "level": 363,
+        "pirates_grade_id": null
+      },
+      "map_game_result": {
+        "league_number": 1,
+        "rank": 11250
+      }
+    },
+    {
+      "ranking": 94,
+      "ranking_point": 692,
+      "pirates_arena_deck": [
+        13632,
+        14523,
+        14170,
+        14219,
+        13516,
+        13966,
+        13559,
+        11521
+      ],
+      "user": {
+        "id": 26583584,
+        "nickname": "フィガーランド聖",
+        "achievement": "<icon=common_font_pirate_rumble_grandparty_0059_luffy_roger.png>の最強の生物",
+        "level": 590,
+        "pirates_grade_id": 13
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 12026
+      }
+    },
+    {
+      "ranking": 95,
+      "ranking_point": 682,
+      "pirates_arena_deck": [
+        14219,
+        14257,
+        14254,
+        14122,
+        13702,
+        11911,
+        13206,
+        14212
+      ],
+      "user": {
+        "id": 26521910,
+        "nickname": "麦わらの一味あかね",
+        "achievement": "期待のルーキー",
+        "level": 450,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 16196
+      }
+    },
+    {
+      "ranking": 95,
+      "ranking_point": 682,
+      "pirates_arena_deck": [
+        14207,
+        14053,
+        14122,
+        14063,
+        14467,
+        14272,
+        13320,
+        12512
+      ],
+      "user": {
+        "id": 14643538,
+        "nickname": "絶唱九號アリスCAT",
+        "achievement": "<icon=common_font_summer2020_reiju_left.png>レイジュ<icon=common_font_summer2020_reiju_right.png><icon=common_font_summer2020_reiju_left.png>レイジュ<icon=common_font_summer2020_reiju_right.png>",
+        "level": 1299,
+        "pirates_grade_id": 16
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 191
+      }
+    },
+    {
+      "ranking": 97,
+      "ranking_point": 681,
+      "pirates_arena_deck": [
+        14459,
+        13908,
+        13465,
+        14058,
+        13970,
+        13321,
+        13203,
+        13728
+      ],
+      "user": {
+        "id": 58002853,
+        "nickname": "S",
+        "achievement": "期待のルーキー",
+        "level": 865,
+        "pirates_grade_id": 14
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 580
+      }
+    },
+    {
+      "ranking": 98,
+      "ranking_point": 675,
+      "pirates_arena_deck": [
+        11109,
+        13858,
+        12710,
+        14272,
+        13969,
+        1269,
+        13915,
+        10396
+      ],
+      "user": {
+        "id": 49924179,
+        "nickname": "⚡️ᴛᴀᴅᴀǫφ⚡️",
+        "achievement": "期待のルーキー",
+        "level": 1577,
+        "pirates_grade_id": 15
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 2610
+      }
+    },
+    {
+      "ranking": 99,
+      "ranking_point": 669,
+      "pirates_arena_deck": [
+        13666,
+        13777,
+        13775,
+        13317,
+        13472,
+        13715,
+        null,
+        null
+      ],
+      "user": {
+        "id": 27823994,
+        "nickname": "P.A.S.K",
+        "achievement": "いなせにべべんっ！！",
+        "level": 1152,
+        "pirates_grade_id": 18
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 681
+      }
+    },
+    {
+      "ranking": 100,
+      "ranking_point": 668,
+      "pirates_arena_deck": [
+        14122,
+        14207,
+        13212,
+        14272,
+        14053,
+        null,
+        null,
+        null
+      ],
+      "user": {
+        "id": 35546008,
+        "nickname": "HAKU",
+        "achievement": "期待のルーキー",
+        "level": 1490,
+        "pirates_grade_id": 19
+      },
+      "map_game_result": {
+        "league_number": 3,
+        "rank": 380
+      }
+    }
+  ]
+}
