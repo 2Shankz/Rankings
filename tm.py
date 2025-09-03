@@ -1,6 +1,5 @@
 import json
 import sqlite3
-import time
 
 from account import Account
 
